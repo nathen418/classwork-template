@@ -6,11 +6,7 @@ A repo of all the code written for my **[Full Class Name]  [Class ID] [Semester 
 - no pull requests will be merged
 - no comments on files will be answered.
 
-## Join my discord server:
-https://dsc.gg/antaresnetwork
-
 ## License
-
 - Refer to the license file
 
 ## Important Note:
