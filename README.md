@@ -9,15 +9,14 @@ A repo of all the code written for my **[Full Class Name]  [Class ID] [Semester 
 - no issues will be resolved
 - no pull requests will be merged
 - no comments on files will be answered.
-- If you have a question, contact me through my discord
 
 ## Join my discord server:
 https://dsc.gg/antaresnetwork
 
 ## License
 
-- I'm not a legal person so as long as I am credited in a somewhat obvious location, by my name or a link to this repository, I'm ok with it. If my name is not at the top of the file in a comment, it was not written by me and is only in this repo to serve as an example of something I was using for help. If my name does not appear on the file in a comment at the top, then it is not my code, it is class material.  If you have a problem with any of this, refer to my discord server and dm me.
+- Refer to the license file
 
-### Example Credit
-- "Some code copied or modified from a repository by Nate Goldsborough at [Repository Name](https://github.com/nathen418/classwork-template)"  
-Or include a basic credit to this repository in your README
+## Important Note:
+Work uploaded to this repository is in no way intended to enable plagiarism, cheating, or any other forms of academic dishonesty. Code and other files here are meant purely for educational use and for me (Nate) to show off and be proud of my work. I take no responsibility if students copy my work and display it as their own. 
+If you are an instructor, school official, etc and you would like for me to remove this repository from public view, please contact me privately at [nathen418@playantares.com](mailto:nathen418@playantares.com)
