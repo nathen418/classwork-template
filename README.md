@@ -1,10 +1,6 @@
 # [CLASS NAME/NUMBER]
 A repo of all the code written for my **[Full Class Name]  [Class ID] [Semester Year taken]** class at [Institution Name]. Kept as an archive. The assignment sheets and instructions for all code are not shared, only sample code answers. 
 
-
-## Questions?
-- **Contact me on discord at nathen418#0002 or join my discord server at the link below**
-
 ## Modifications
 - no issues will be resolved
 - no pull requests will be merged
